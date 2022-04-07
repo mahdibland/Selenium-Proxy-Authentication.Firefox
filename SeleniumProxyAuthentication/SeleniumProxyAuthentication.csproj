@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <LangVersion>8.0</LangVersion>
+    <PackageId>SeleniumProxyAuthentication.Firefox</PackageId>
+    <Authors>MahdiBland</Authors>
+    <Description>Providing Support of Auth, Chain, Rotating Proxies For Selenium FireFox Driver
+Support All Kind of Proxy types</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Selenium Proxy, Auth, Proxy Authentication, HTTP, Chain, Rotating, Proxy, Proxies, Selenium, Firefox, FirefoxDriver, WebDriver, username, password</PackageTags>
+    <Product>Selenium Proxy Authentication</Product>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageIcon>reality_icon.png</PackageIcon>
+    <RepositoryUrl>https://github.com/mahdibland/Selenium-Proxy-Authentication.Firefox</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/mahdibland/Selenium-Proxy-Authentication.Firefox</PackageProjectUrl>
+    <ApplicationIcon>reality_icon.ico</ApplicationIcon>
+    <Version>1.0.0</Version>
+    <GenerateDocumentationFile>False</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="reality_icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Selenium.WebDriver" Version="4.1.0" />
+    <PackageReference Include="System.Text.Json" Version="6.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="reality_icon.ico">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="reality_icon.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
