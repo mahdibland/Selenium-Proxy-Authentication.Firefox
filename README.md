@@ -56,7 +56,7 @@ driver.DeleteExtensionsCache();
 ##  Guides
 
 #### Proxy Format
-
+- Support all kind of proxy types (i tested http/s, socks5)
 * Host:Port:Username:Password
 * Host:Port
 
