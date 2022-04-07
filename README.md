@@ -67,4 +67,4 @@ driver.DeleteExtensionsCache();
     
 ## Licence
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/mahdibland/Selenium-Proxy-Authentication.Firefox)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/mahdibland/Selenium-Proxy-Authentication.Firefox/blob/74036ffc56d4d05a65355e805cb0dc55243e3a5c/SeleniumProxyAuthentication.Sample/Program.cs)
