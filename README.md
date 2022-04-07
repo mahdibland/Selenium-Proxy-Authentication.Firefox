@@ -51,7 +51,7 @@ driver.Quit();
 driver.DeleteExtensionsCache();
 ```
 
-* also see the sample project to see how it's work <a href="https://github.com/mahdibland/Selenium-Proxy-Authentication.Firefox/blob/main/SeleniumProxyAuthentication.Sample/Program.cs">Link to sample project</a>
+* also see the sample project to see how it's work <a href="https://github.com/mahdibland/Selenium-Proxy-Authentication.Firefox/blob/74036ffc56d4d05a65355e805cb0dc55243e3a5c/SeleniumProxyAuthentication.Sample/Program.cs">Link to sample project</a>
 
 ##  Guides
 
@@ -67,4 +67,4 @@ driver.DeleteExtensionsCache();
     
 ## Licence
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/mahdibland/Selenium-Proxy-Authentication.Firefox/blob/74036ffc56d4d05a65355e805cb0dc55243e3a5c/SeleniumProxyAuthentication.Sample/Program.cs)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/mahdibland/Selenium-Proxy-Authentication.Firefox)
