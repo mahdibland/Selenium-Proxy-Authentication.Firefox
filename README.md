@@ -1,9 +1,6 @@
 # Selenium Proxy Authentication For Firefox
 
 > Easily add your auth proxies to your Firefox (Gecko) Driver with one line of code With Extension
-> <br />
-> <br />
-> ! You need to download the "Nightly" or "Developer Edition" of firefox because in the original browser extensions should be verified before installing since version 43
 
 ## Installation
 
@@ -13,6 +10,7 @@
 ```markdown
 Install-Package SeleniumProxyAuthentication.Firefox -Version 1.0.0
 ```
+> ! You need to download the "Nightly" or "Developer Edition" of firefox to use this library because in the original browser extensions should be verified before installing since version 43
 
 ## How to Use it
 
