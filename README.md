@@ -61,11 +61,6 @@ driver.DeleteExtensionsCache();
 * Host:Port:Username:Password
 * Host:Port
 
-## Contact
-
-> Email: mahdi.blandsoft98.ir@gmail.com<br/>
-> Telegram: https://t.me/ONll_CH4N<br />
-    
 ## Licence
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/mahdibland/Selenium-Proxy-Authentication.Firefox)
